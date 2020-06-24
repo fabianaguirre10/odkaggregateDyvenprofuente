@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collect_app.iml" filepath="$PROJECT_DIR$/collect_app.iml" group="dyvenpro2020/collect_app" />
+      <module fileurl="file://$PROJECT_DIR$/../dyvenpro2020.iml" filepath="$PROJECT_DIR$/../dyvenpro2020.iml" group="dyvenpro2020" />
+      <module fileurl="file://$PROJECT_DIR$/../nbi-stubs/nbi-stubs.iml" filepath="$PROJECT_DIR$/../nbi-stubs/nbi-stubs.iml" group="dyvenpro2020/nbi-stubs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-519464606/odkaggregateDyvenprofuente.iml" filepath="$PROJECT_DIR$/.idea/modules/-519464606/odkaggregateDyvenprofuente.iml" group="odkaggregateDyvenprofuente" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/odkaggregateDyvenprofuente-collect_app.iml" filepath="$PROJECT_DIR$/.idea/modules/odkaggregateDyvenprofuente-collect_app.iml" group="odkaggregateDyvenprofuente/collect_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-251340160/odkaggregateDyvenprofuente-nbi-stubs.iml" filepath="$PROJECT_DIR$/.idea/modules/-251340160/odkaggregateDyvenprofuente-nbi-stubs.iml" group="odkaggregateDyvenprofuente/nbi-stubs" />
+    </modules>
+  </component>
+</project>
